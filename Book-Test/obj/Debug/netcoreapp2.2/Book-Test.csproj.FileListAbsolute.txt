@@ -1,0 +1,14 @@
+C:\Users\nazar\Desktop\tset\Book-Test\Book-Test\bin\Debug\netcoreapp2.2\Book-Test.deps.json
+C:\Users\nazar\Desktop\tset\Book-Test\Book-Test\bin\Debug\netcoreapp2.2\Book-Test.runtimeconfig.json
+C:\Users\nazar\Desktop\tset\Book-Test\Book-Test\bin\Debug\netcoreapp2.2\Book-Test.runtimeconfig.dev.json
+C:\Users\nazar\Desktop\tset\Book-Test\Book-Test\bin\Debug\netcoreapp2.2\Book-Test.dll
+C:\Users\nazar\Desktop\tset\Book-Test\Book-Test\bin\Debug\netcoreapp2.2\Book-Test.pdb
+C:\Users\nazar\Desktop\tset\Book-Test\Book-Test\obj\Debug\netcoreapp2.2\Book-Test.csproj.CoreCompileInputs.cache
+C:\Users\nazar\Desktop\tset\Book-Test\Book-Test\obj\Debug\netcoreapp2.2\Book-Test.RazorAssemblyInfo.cache
+C:\Users\nazar\Desktop\tset\Book-Test\Book-Test\obj\Debug\netcoreapp2.2\Book-Test.RazorAssemblyInfo.cs
+C:\Users\nazar\Desktop\tset\Book-Test\Book-Test\obj\Debug\netcoreapp2.2\Book-Test.AssemblyInfoInputs.cache
+C:\Users\nazar\Desktop\tset\Book-Test\Book-Test\obj\Debug\netcoreapp2.2\Book-Test.AssemblyInfo.cs
+C:\Users\nazar\Desktop\tset\Book-Test\Book-Test\obj\Debug\netcoreapp2.2\Book-Test.RazorTargetAssemblyInfo.cache
+C:\Users\nazar\Desktop\tset\Book-Test\Book-Test\obj\Debug\netcoreapp2.2\Book-Test.dll
+C:\Users\nazar\Desktop\tset\Book-Test\Book-Test\obj\Debug\netcoreapp2.2\Book-Test.pdb
+C:\Users\nazar\Desktop\tset\Book-Test\Book-Test\obj\Debug\netcoreapp2.2\Book-Test.csprojAssemblyReference.cache
